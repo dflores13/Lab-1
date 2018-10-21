@@ -1,4 +1,4 @@
-##AMAZINGFLASHCARDS
+## AMAZINGFLASHCARDS
 
 ### App Description
 `TODO:// helps you study.
